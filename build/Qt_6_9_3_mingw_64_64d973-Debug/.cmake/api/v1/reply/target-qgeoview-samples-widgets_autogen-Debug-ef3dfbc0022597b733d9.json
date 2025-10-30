@@ -1,0 +1,88 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"samples/widgets/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"codemodelVersion" : 
+	{
+		"major" : 2,
+		"minor" : 9
+	},
+	"dependencies" : 
+	[
+		{
+			"id" : "qgeoview-samples-widgets_autogen_timestamp_deps::@67fecb7d960c968bd6ad"
+		}
+	],
+	"id" : "qgeoview-samples-widgets_autogen::@67fecb7d960c968bd6ad",
+	"isGeneratorProvided" : true,
+	"name" : "qgeoview-samples-widgets_autogen",
+	"orderDependencies" : 
+	[
+		{
+			"id" : "Qt6::moc::@306ed2d68c6501e8728f"
+		},
+		{
+			"id" : "Qt6::uic::@306ed2d68c6501e8728f"
+		},
+		{
+			"id" : "qgeoview-samples-widgets_autogen_timestamp_deps::@67fecb7d960c968bd6ad"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "samples/widgets",
+		"source" : "samples/widgets"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				1,
+				2
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_9_3_mingw_64_64d973-Debug/samples/widgets/CMakeFiles/qgeoview-samples-widgets_autogen",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_9_3_mingw_64_64d973-Debug/samples/widgets/CMakeFiles/qgeoview-samples-widgets_autogen.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_9_3_mingw_64_64d973-Debug/samples/widgets/qgeoview-samples-widgets_autogen/timestamp.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "UTILITY"
+}

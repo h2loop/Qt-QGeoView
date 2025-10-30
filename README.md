@@ -1,6 +1,7 @@
-# QGeoView (QGV)
+# QGeoView by H2LooP
 
-![Logo](market-place/logo_64_64.png) QGeoView is a Qt / C ++ widget for visualizing geographic data.
+This project is a fork of the original [QGeoView](https://github.com/AmonRaNet/QGeoView) created by AmonRaNet.
+
 
 ## Headings
 
@@ -67,31 +68,9 @@ Please use [HOWTO](HOWTO.md) samples to see all QGeoView features:
 
 You can see here small video: [QGeoView Demo](https://youtu.be/t0D21r_s-8E).
 
-## Community
-
-For additional help, join in the [AmonRaNet Discord](https://discord.gg/bxYJsrkBWa).
-
-## Author
-
-**Andrey Yaroshenko** ([AmonRaNet](https://github.com/AmonRaNet))
-
-## Credits
-
-**bakerb845** for helping with Qt6 adaptation
-**raffmont** for adding new features and capabilities
-**leonardooyama** for support of drag and drop
-**Transporter** for GDAL example and CMake fixes
-**Andreas Bachlechner** for CMake fixes
-**Leonardo Seiji Oyama** for new backround map sources
-
-and
-
-all others who helps and supports QGeoView!
-
-## Versioning
-
-QGeoView uses [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/AmonRaNet/QGeoView/tags).
-
 ## License
 
 This project is licensed under the [LGPL License v3](https://www.gnu.org/licenses/lgpl-3.0.html).
+
+## Maintainer
+Maintained by H2LooP Organization

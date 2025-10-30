@@ -1,0 +1,109 @@
+{
+	"abstract" : true,
+	"artifacts" : 
+	[
+		{
+			"path" : "C:/Qt/6.9.3/mingw_64/bin/Qt6Network.dll"
+		},
+		{
+			"path" : "C:/Qt/6.9.3/mingw_64/lib/libQt6Network.a"
+		}
+	],
+	"backtrace" : 6,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"include",
+			"find_package",
+			"set_target_properties"
+		],
+		"files" : 
+		[
+			"C:/Qt/6.9.3/mingw_64/lib/cmake/Qt6Network/Qt6NetworkTargets.cmake",
+			"C:/Qt/6.9.3/mingw_64/lib/cmake/Qt6Network/Qt6NetworkConfig.cmake",
+			"build/Qt_6_9_3_mingw_64_64d973-Debug/.qtc/package-manager/maintenance_tool_provider.cmake",
+			"samples/drag-and-drop/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 3
+			},
+			{
+				"command" : 2,
+				"file" : 3,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 315,
+				"parent" : 1
+			},
+			{
+				"file" : 1,
+				"parent" : 2
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 55,
+				"parent" : 3
+			},
+			{
+				"file" : 0,
+				"parent" : 4
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 59,
+				"parent" : 5
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 61,
+				"parent" : 5
+			}
+		]
+	},
+	"codemodelVersion" : 
+	{
+		"major" : 2,
+		"minor" : 9
+	},
+	"id" : "Qt6::Network::@95ab22f8655e1c7b0f06",
+	"imported" : true,
+	"interfaceCompileDependencies" : 
+	[
+		{
+			"backtrace" : 7,
+			"id" : "Qt6::Core::@95ab22f8655e1c7b0f06"
+		}
+	],
+	"interfaceLinkLibraries" : 
+	[
+		{
+			"backtrace" : 7,
+			"id" : "Qt6::Core::@95ab22f8655e1c7b0f06"
+		},
+		{
+			"backtrace" : 7,
+			"fragment" : "ws2_32"
+		}
+	],
+	"local" : true,
+	"name" : "Qt6::Network",
+	"nameOnDisk" : "Qt6Network.dll",
+	"paths" : 
+	{
+		"build" : "samples/drag-and-drop",
+		"source" : "samples/drag-and-drop"
+	},
+	"sources" : [],
+	"type" : "SHARED_LIBRARY"
+}

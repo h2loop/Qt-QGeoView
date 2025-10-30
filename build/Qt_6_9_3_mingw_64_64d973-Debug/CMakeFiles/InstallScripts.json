@@ -1,0 +1,24 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/vedan/Desktop/Qt/Qt-QGeoView/build/Qt_6_9_3_mingw_64_64d973-Debug/cmake_install.cmake",
+		"C:/Users/vedan/Desktop/Qt/Qt-QGeoView/build/Qt_6_9_3_mingw_64_64d973-Debug/lib/cmake_install.cmake",
+		"C:/Users/vedan/Desktop/Qt/Qt-QGeoView/build/Qt_6_9_3_mingw_64_64d973-Debug/samples/shared/cmake_install.cmake",
+		"C:/Users/vedan/Desktop/Qt/Qt-QGeoView/build/Qt_6_9_3_mingw_64_64d973-Debug/samples/basic/cmake_install.cmake",
+		"C:/Users/vedan/Desktop/Qt/Qt-QGeoView/build/Qt_6_9_3_mingw_64_64d973-Debug/samples/background/cmake_install.cmake",
+		"C:/Users/vedan/Desktop/Qt/Qt-QGeoView/build/Qt_6_9_3_mingw_64_64d973-Debug/samples/widgets/cmake_install.cmake",
+		"C:/Users/vedan/Desktop/Qt/Qt-QGeoView/build/Qt_6_9_3_mingw_64_64d973-Debug/samples/flags/cmake_install.cmake",
+		"C:/Users/vedan/Desktop/Qt/Qt-QGeoView/build/Qt_6_9_3_mingw_64_64d973-Debug/samples/layers/cmake_install.cmake",
+		"C:/Users/vedan/Desktop/Qt/Qt-QGeoView/build/Qt_6_9_3_mingw_64_64d973-Debug/samples/raster/cmake_install.cmake",
+		"C:/Users/vedan/Desktop/Qt/Qt-QGeoView/build/Qt_6_9_3_mingw_64_64d973-Debug/samples/fun/cmake_install.cmake",
+		"C:/Users/vedan/Desktop/Qt/Qt-QGeoView/build/Qt_6_9_3_mingw_64_64d973-Debug/samples/10000/cmake_install.cmake",
+		"C:/Users/vedan/Desktop/Qt/Qt-QGeoView/build/Qt_6_9_3_mingw_64_64d973-Debug/samples/debug/cmake_install.cmake",
+		"C:/Users/vedan/Desktop/Qt/Qt-QGeoView/build/Qt_6_9_3_mingw_64_64d973-Debug/samples/performance/cmake_install.cmake",
+		"C:/Users/vedan/Desktop/Qt/Qt-QGeoView/build/Qt_6_9_3_mingw_64_64d973-Debug/samples/custom-tiles/cmake_install.cmake",
+		"C:/Users/vedan/Desktop/Qt/Qt-QGeoView/build/Qt_6_9_3_mingw_64_64d973-Debug/samples/moving-objects/cmake_install.cmake",
+		"C:/Users/vedan/Desktop/Qt/Qt-QGeoView/build/Qt_6_9_3_mingw_64_64d973-Debug/samples/mouse-actions/cmake_install.cmake",
+		"C:/Users/vedan/Desktop/Qt/Qt-QGeoView/build/Qt_6_9_3_mingw_64_64d973-Debug/samples/camera-actions/cmake_install.cmake",
+		"C:/Users/vedan/Desktop/Qt/Qt-QGeoView/build/Qt_6_9_3_mingw_64_64d973-Debug/samples/drag-and-drop/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

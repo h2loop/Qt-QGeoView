@@ -1,0 +1,55 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"lib/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"codemodelVersion" : 
+	{
+		"major" : 2,
+		"minor" : 9
+	},
+	"id" : "qgeoview_autogen_timestamp_deps::@306ed2d68c6501e8728f",
+	"isGeneratorProvided" : true,
+	"name" : "qgeoview_autogen_timestamp_deps",
+	"orderDependencies" : 
+	[
+		{
+			"backtrace" : 0,
+			"id" : "Qt6::moc::@306ed2d68c6501e8728f"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "Qt6::Core::@306ed2d68c6501e8728f"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "Qt6::Gui::@306ed2d68c6501e8728f"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "Qt6::Widgets::@306ed2d68c6501e8728f"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "Qt6::Network::@306ed2d68c6501e8728f"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "lib",
+		"source" : "lib"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

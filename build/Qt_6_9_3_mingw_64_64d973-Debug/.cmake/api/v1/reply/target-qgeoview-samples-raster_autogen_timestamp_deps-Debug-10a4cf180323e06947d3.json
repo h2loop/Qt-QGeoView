@@ -1,0 +1,78 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"samples/raster/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"codemodelVersion" : 
+	{
+		"major" : 2,
+		"minor" : 9
+	},
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 0,
+			"id" : "qgeoview::@306ed2d68c6501e8728f"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "qgeoview-samples-shared::@ee3f0c6556afeca15e01"
+		}
+	],
+	"id" : "qgeoview-samples-raster_autogen_timestamp_deps::@4d59993cf25703c9d623",
+	"isGeneratorProvided" : true,
+	"name" : "qgeoview-samples-raster_autogen_timestamp_deps",
+	"orderDependencies" : 
+	[
+		{
+			"backtrace" : 0,
+			"id" : "Qt6::moc::@306ed2d68c6501e8728f"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "Qt6::uic::@306ed2d68c6501e8728f"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "Qt6::Gui::@4d59993cf25703c9d623"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "Qt6::Core::@4d59993cf25703c9d623"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "Qt6::Widgets::@4d59993cf25703c9d623"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "Qt6::Network::@4d59993cf25703c9d623"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "qgeoview::@306ed2d68c6501e8728f"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "qgeoview-samples-shared::@ee3f0c6556afeca15e01"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "samples/raster",
+		"source" : "samples/raster"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

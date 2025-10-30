@@ -1,0 +1,120 @@
+{
+	"abstract" : true,
+	"backtrace" : 9,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"include",
+			"find_package",
+			"set_target_properties"
+		],
+		"files" : 
+		[
+			"C:/Qt/6.9.3/mingw_64/lib/cmake/Qt6GuiPrivate/Qt6GuiPrivateTargets.cmake",
+			"C:/Qt/6.9.3/mingw_64/lib/cmake/Qt6GuiPrivate/Qt6GuiPrivateConfig.cmake",
+			"build/Qt_6_9_3_mingw_64_64d973-Debug/.qtc/package-manager/maintenance_tool_provider.cmake",
+			"C:/Qt/6.9.3/mingw_64/lib/cmake/Qt6Gui/Qt6GuiConfig.cmake",
+			"samples/flags/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 4
+			},
+			{
+				"command" : 2,
+				"file" : 4,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 315,
+				"parent" : 1
+			},
+			{
+				"file" : 3,
+				"parent" : 2
+			},
+			{
+				"command" : 2,
+				"file" : 3,
+				"line" : 85,
+				"parent" : 3
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 333,
+				"parent" : 4
+			},
+			{
+				"file" : 1,
+				"parent" : 5
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 52,
+				"parent" : 6
+			},
+			{
+				"file" : 0,
+				"parent" : 7
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 59,
+				"parent" : 8
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 61,
+				"parent" : 8
+			}
+		]
+	},
+	"codemodelVersion" : 
+	{
+		"major" : 2,
+		"minor" : 9
+	},
+	"id" : "Qt6::GuiPrivate::@0340072654e7f667784a",
+	"imported" : true,
+	"interfaceCompileDependencies" : 
+	[
+		{
+			"backtrace" : 10,
+			"id" : "Qt6::CorePrivate::@0340072654e7f667784a"
+		},
+		{
+			"backtrace" : 10,
+			"id" : "Qt6::Gui::@0340072654e7f667784a"
+		}
+	],
+	"interfaceLinkLibraries" : 
+	[
+		{
+			"backtrace" : 10,
+			"id" : "Qt6::CorePrivate::@0340072654e7f667784a"
+		},
+		{
+			"backtrace" : 10,
+			"id" : "Qt6::Gui::@0340072654e7f667784a"
+		}
+	],
+	"local" : true,
+	"name" : "Qt6::GuiPrivate",
+	"paths" : 
+	{
+		"build" : "samples/flags",
+		"source" : "samples/flags"
+	},
+	"sources" : [],
+	"type" : "INTERFACE_LIBRARY"
+}

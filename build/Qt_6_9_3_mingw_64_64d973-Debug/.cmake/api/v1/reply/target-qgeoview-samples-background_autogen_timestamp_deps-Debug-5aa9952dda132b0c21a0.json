@@ -1,0 +1,78 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"samples/background/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"codemodelVersion" : 
+	{
+		"major" : 2,
+		"minor" : 9
+	},
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 0,
+			"id" : "qgeoview::@306ed2d68c6501e8728f"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "qgeoview-samples-shared::@ee3f0c6556afeca15e01"
+		}
+	],
+	"id" : "qgeoview-samples-background_autogen_timestamp_deps::@9a00843c287e262492f7",
+	"isGeneratorProvided" : true,
+	"name" : "qgeoview-samples-background_autogen_timestamp_deps",
+	"orderDependencies" : 
+	[
+		{
+			"backtrace" : 0,
+			"id" : "Qt6::moc::@306ed2d68c6501e8728f"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "Qt6::uic::@306ed2d68c6501e8728f"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "Qt6::Gui::@9a00843c287e262492f7"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "Qt6::Core::@9a00843c287e262492f7"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "Qt6::Widgets::@9a00843c287e262492f7"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "Qt6::Network::@9a00843c287e262492f7"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "qgeoview::@306ed2d68c6501e8728f"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "qgeoview-samples-shared::@ee3f0c6556afeca15e01"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "samples/background",
+		"source" : "samples/background"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}
